@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "expocrud",
+  "short_name": "expocrud",
+  "start_url": "/?utm_source=web_app_manifest"
+}
